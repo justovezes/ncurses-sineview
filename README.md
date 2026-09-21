@@ -20,11 +20,17 @@ then to execute, run: `` ./sineview ``
 ## usage
 
 TAB:           switch to next mode
+
 SHIFT + TAB:   switch to previous mode
+
 upper arrow / scroll:  increase amplitude
+
 lower arrow / scroll:  lower amplitude
+
 left arrow: lower riseAngle
+
 right arrow: increase riseAngle
+
 p: quit
 
 ## program modes
