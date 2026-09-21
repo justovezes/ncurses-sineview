@@ -1,0 +1,3 @@
+# obj files
+*.o
+src/*.o
