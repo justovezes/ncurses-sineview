@@ -5,7 +5,7 @@
 #define BUFFER_SIZE 128
 #define BASE_ANGLE 0.0
 #define RISE_ANGLE 0.0
-#define RISE_ANGLE_INC 0.1
+#define RISE_ANGLE_INC 0.01
 #define CONT_INCR 0.01
 #define AMPLITUDE 0 /* aka max available */
 

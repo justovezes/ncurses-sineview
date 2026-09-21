@@ -72,10 +72,10 @@ int main(void)
                           break;
           case KEY_RIGHT: riseAngle += RISE_ANGLE_INC;
                           break;
-          case KEY_DOWN:  amplitude <= 1 ? : (amplitude--, stickyAmplitude = false);
+          case KEY_DOWN:  if (!(amplitude <= 1)) (amplitude--, stickyAmplitude = false);
                           stickyAmplitude = false;
                           break;
-          case KEY_UP:    amplitude >= (LINES - 8) ? : amplitude++;
+          case KEY_UP:    if (!(amplitude >= (LINES - 8))) amplitude++;
                           if (amplitude >= (LINES - 8))
                             stickyAmplitude = true;
                           break;
