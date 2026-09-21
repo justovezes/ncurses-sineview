@@ -10,8 +10,7 @@ need a POSIX system and ncurses library (dev)
 ## installation
 
 inside the project's folder run `` make ``
-to execute, run:
-`` ./sineview ``
+to execute, run: `` ./sineview ``
 
 ## usage
 
@@ -34,5 +33,5 @@ p: quit
 ### continuous mode
 ![continuous demo](continuous.gif)
 
-### random mode
+### random mode (not very good)
 ![random demo](random.gif)
