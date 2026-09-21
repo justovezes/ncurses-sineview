@@ -26,6 +26,7 @@ p: quit
 ## program modes
 
 ### idle mode
+[![idle demo](idle.png)
 
 ### static mode
 
