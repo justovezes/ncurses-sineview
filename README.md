@@ -6,7 +6,9 @@ A sine wave visualizer written in C using the ncurses library.
 ## requirements
 
 *POSIX system
+
 *curses library (dev)
+
 *GCC/Make
 
 ## installation
