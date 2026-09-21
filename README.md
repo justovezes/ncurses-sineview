@@ -26,10 +26,13 @@ p: quit
 ## program modes
 
 ### idle mode
-[![idle demo](idle.png)
+![idle demo](idle.png)
 
 ### static mode
+![static demo](static.gif)
 
 ### continuous mode
+![continuous demo](continuous.gif)
 
 ### random mode
+![random demo](random.gif)
