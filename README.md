@@ -10,7 +10,8 @@ need a POSIX system and ncurses library (dev)
 ## installation
 
 inside the project's folder run `` make ``
-to execute, run: `` ./sineview ``
+
+then to execute, run: `` ./sineview ``
 
 ## usage
 
