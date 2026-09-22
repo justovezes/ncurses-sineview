@@ -41,6 +41,9 @@ p: quit
 ### static mode
 ![static demo](static.gif)
 
+## license
+
+MIT License
 ### continuous mode
 ![continuous demo](continuous.gif)
 
